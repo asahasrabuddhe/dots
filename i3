@@ -1,1 +1,0 @@
-/home/ajitem/.config/i3
